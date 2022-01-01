@@ -1,0 +1,467 @@
+.title {
+    margin-top:10%;
+    font-size:60px;
+    text-align: center;
+    font-weight:bold;
+}
+.keyword {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 15px;
+    font-weight: bold;
+}
+.nav {
+    background-color: rgb(255, 210, 194);
+    display: flex;
+    font-size: 20px;
+    height: auto;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+.nav-type{
+    display: flex;
+    margin: 0px auto;
+}
+.nav-type-cell{
+    color: black;
+    margin-left: auto;
+    border: 1px solid rgb(100, 100, 100);
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.main {
+    width: 600px;
+    margin: 0px auto;
+    font-size: 25px;
+    font-weight: 300;
+    margin-top: 20px;
+    text-align: center;
+}
+.wowbow {
+    margin-top: 50px;
+    width: 600px;
+    margin: 0px auto;
+}
+.programming {
+    margin-top: 50px;
+}
+.Marketing {
+    margin-top: 50px;
+}
+.Data {
+    margin-top: 50px;
+}
+.Design {
+    margin-top: 50px;
+}
+.Communication {
+    margin-top: 50px;
+}
+.subject-name {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: left;
+    border-bottom: 1px solid black;
+    padding-bottom: 10px;
+}
+.type-first {
+    display: flex;
+    margin: 0px auto;
+    margin-top: 20px;
+    margin-bottom: 20px
+}
+.type-second {
+    display: flex;
+    margin: 0px auto;
+    margin-top: 20px;
+    margin-bottom: 20px
+}
+.type-third {
+    display: flex;
+    margin: 0px auto;
+    margin-top: 20px;
+    margin-bottom: 20px
+}
+.programming-type-1 {
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0px auto;
+}
+.programming-type-2 {
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0px auto;
+}
+.programming-type-3 {
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0px auto;
+}
+.programming-type-4 {
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0px auto;
+}
+.programming-type-5 {
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0px auto;
+}
+.programming-type-6 {
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0px auto;
+}
+.programming-type-7 {
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0px auto;
+}
+.programming-type-8 {
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0px auto;
+}
+.Marketing-type-1 {
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0px auto;
+}
+.Marketing-type-2 {
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0px auto;
+}
+.Marketing-type-3 {
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0px auto;
+}
+.Marketing-type-4 {
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0px auto;
+}
+.Marketing-type-5 {
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0px auto;
+}
+.Marketing-type-6 {
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0px auto;
+}
+.Marketing-type-7 {
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0px auto;
+}
+.Marketing-type-8 {
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0px auto;
+}
+.Marketing-type-9 {
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0px auto;
+}
+.Marketing-type-10 {
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0px auto;
+}
+.Marketing-type-11 {
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0px auto;
+}
+.Marketing-type-12 {
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0px auto;
+}
+.Marketing-type-13 {
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0px auto;
+}
+.Marketing-type-14 {
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0px auto;
+}
+.Data-type-1 {
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0px auto;
+}
+.Data-type-2 {
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0px auto;
+}
+.Data-type-3 {
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0px auto;
+}
+.Data-type-4 {
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0px auto;
+}
+.Design-type-1 {
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0px auto;
+}
+.Design-type-2 {
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0px auto;
+}
+.Design-type-3 {
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0px auto;
+}
+.Design-type-4 {
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0px auto;
+}
+.Communication-type-1 {
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0px auto;
+}
+.Communication-type-2 {
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0px auto;
+}
+.Communication-type-3 {
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0px auto;
+}
+.Communication-type-4 {
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0px auto;
+}
+.Communication-type-5 {
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0px auto;
+}
+.Communication-type-6 {
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0px auto;
+}
+.Communication-type-7 {
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0px auto;
+}
+.Communication-type-8 {
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0px auto;
+}
+.stamp {
+    margin-left: 90%;
+}

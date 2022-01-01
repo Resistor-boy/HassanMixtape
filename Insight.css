@@ -1,0 +1,124 @@
+.title {
+    margin-top:10%;
+    font-size:60px;
+    text-align: center;
+    font-weight:bold;
+}
+.keyword {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 15px;
+    font-weight: bold;
+}
+.nav {
+    background-color: rgb(255, 210, 194);
+    display:flex;
+    font-size:20px;
+    height:auto;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+
+}
+.nav-type{
+    display: flex;
+    margin: 0px auto;
+}
+.nav-type-cell {
+    color: black;
+    margin-left: auto;
+    border: 1px solid rgb(100, 100, 100);
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.main {
+    width: 1000px;
+    margin: 0px auto;
+}
+.subjecttitle {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 300;
+    margin-top: 20px;
+}
+.Topic-first {
+    width: 300px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    font-size: 30px;
+    margin: 0px auto;
+    text-align: center;
+    margin-top: 50px;
+    background-color: blanchedalmond;
+    font-family:sans-serif;
+}
+.category-first {
+    margin: 0px auto;
+    width: 1200px;
+}
+.General-Contents {
+    display: flex;
+    margin: 0px auto;
+    align-items: center;
+}
+.contents-first {
+    margin-top: 40px;
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+    margin-left: 20px;
+    margin-right:20px;
+    text-align: center;
+    font-family: fantasy;
+}
+.subject-first {
+    margin-top: 10px;
+}
+.Topic-second {
+    width: 300px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    font-size: 30px;
+    margin: 0px auto;
+    text-align: center;
+    margin-top: 100px;
+    background-color: blanchedalmond;
+    font-family:sans-serif;
+}
+.category-second {
+    margin-top: 40px;
+    margin: 0px auto;
+    width: 1500px;
+}
+.Special-Episode {
+    display: flex;
+    margin: 0px auto;
+    align-items: center;
+}
+.contents-second {
+    margin-top: 40px;
+    width: 250px;
+    height: 430px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.subject-second {
+    width: 200px;
+    height: 30px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.type {
+    font-size: 15px;
+    margin-top: 10px;
+    margin-left: 10px;
+    text-align: left;
+    line-height: 23px;
+}
+.stamp {
+    margin-left: 90%;
+}
